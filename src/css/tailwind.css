@@ -1,7 +1,17 @@
 @tailwind base;
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.allura {
+  font-family: "Allura", cursive;
+}
+
+.bg1 {
+  background-image: url("/bolocafe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Start purging... */
