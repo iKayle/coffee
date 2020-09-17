@@ -1,6 +1,6 @@
 export function Hero() {
   return (
-    <div className="min-h-screen bg1">
+    <div className=" bg1">
       <div className="container flex justify-between py-8 mx-auto text-white ">
         <div className="text-2xl">
           <span className="font-bold">CAFÉ</span> BRIGADEIRO

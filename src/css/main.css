@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.allura {
+  font-family: "Allura", cursive;
+}
+
+.merri {
+  font-family: "Merriweather", serif;
+}
+
+.bg1 {
+  background-image: url("/bolocafe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
+.bg2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
