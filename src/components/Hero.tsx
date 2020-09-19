@@ -1,3 +1,4 @@
+import Link from "next/link";
 export function Hero() {
   return (
     <div className=" bg1">
@@ -13,24 +14,24 @@ export function Hero() {
               </a>
             </li>
             <li>
-              <a className="hover:text-golden" href="#">
-                SOBRE NÓS
-              </a>
+              <Link href="/sobrenos">
+                <a className="hover:text-golden">SOBRE NÓS</a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-golden" href="#">
-                CARDÁPIO
-              </a>
+              <Link href="/cardapio">
+                <a className="hover:text-golden">CARDÁPIO</a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-golden" href="#">
-                RESERVA
-              </a>
+              <Link href="/reserva">
+                <a className="hover:text-golden">RESERVA</a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-golden" href="#">
-                CONTATO
-              </a>
+              <Link href="/contato">
+                <a className="hover:text-golden">CONTATO</a>
+              </Link>
             </li>
           </ul>
         </div>
