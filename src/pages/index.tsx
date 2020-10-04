@@ -1,5 +1,5 @@
 import { NextSeo } from "next-seo";
-import { Hero } from "../components/hero";
+import { Hero } from "../components/Hero";
 import { Ofertas } from "../components/Ofertas";
 import { Frutas } from "../components/Frutas";
 import { Historia } from "../components/Historia";
