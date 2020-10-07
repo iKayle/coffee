@@ -3,8 +3,8 @@ export function Footer() {
     <div className="container items-end w-full h-px mx-auto mt-2 bg-gray-300">
       <footer className="container flex justify-between pt-5 pb-10 mx-auto text-sm text-gray-600">
         <div>
-          <h1>CAFÉ BRIGADEIRO</h1>
-          <p>Todos os direitos reservados 2020</p>
+          <h1>COFFEE MAGNIFIC</h1>
+          <p>Todos os direitos reservados 2020 &copy; </p>
         </div>
         <div>
           Desenvolvido por{" "}

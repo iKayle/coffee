@@ -23,7 +23,7 @@ export function Ofertas() {
             <p className="font-bold merri"> Brigadeiro de colher </p>
             <p className="text-gray-600">Minima veniam quis nostrum</p>
           </div>
-          <div className="font-bold merri"> R$ 5,00</div>
+          <div className="font-bold merri"> R$ 6,00</div>
         </div>
 
         <div className="w-full h-px my-3 bg-gray-300" />
@@ -35,7 +35,7 @@ export function Ofertas() {
             </p>
             <p className="text-gray-600">Adipisci velit sed quia non numquam</p>
           </div>
-          <div className="font-bold merri"> R$ 5,00</div>
+          <div className="font-bold merri"> R$ 10,00</div>
         </div>
 
         <div className="w-full h-px my-3 bg-gray-300" />
@@ -47,7 +47,7 @@ export function Ofertas() {
               Quia voluptas sit aspernatur aut odit aut
             </p>
           </div>
-          <div className="font-bold merri"> R$ 5,00</div>
+          <div className="font-bold merri"> R$ 12,00</div>
         </div>
 
         <div className="w-full h-px my-3 bg-gray-300" />
@@ -57,7 +57,7 @@ export function Ofertas() {
             <p className="font-bold merri ">Bolo de frutas silvestres</p>
             <p className="text-gray-600">Ea commodi consequatur quis autem</p>
           </div>
-          <div className="font-bold merri"> R$ 5,00</div>
+          <div className="font-bold merri"> R$ 8,00</div>
         </div>
 
         <div className="w-full h-px my-3 bg-gray-300" />

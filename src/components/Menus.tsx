@@ -5,10 +5,10 @@ export function Menus() {
     <div className="">
       <div className="container flex justify-between py-8 mx-auto ">
         <div className="text-2xl">
-          <span className="font-bold">CAFÉ</span> BRIGADEIRO
+          <span className="font-bold">COFFEE</span> MAGNIFIC
         </div>
         <div>
-          <ul className="flex space-x-6 tracking-wide">
+          <ul className="flex space-x-6 tracking-wider">
             <li>
               <Link href="/#">
                 <a className="hover:text-golden">INÍCIO</a>
@@ -25,13 +25,13 @@ export function Menus() {
               </Link>
             </li>
             <li>
-              <Link href="/reservas">
+              <Link href="/agendar">
                 <a className="hover:text-golden">RESERVA</a>
               </Link>
             </li>
-            <li>
+            {/*<li>
               <a className="hover:text-golden">CONTATO</a>
-            </li>
+            </li>*/}
           </ul>
         </div>
       </div>

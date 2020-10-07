@@ -4,12 +4,14 @@ export function Hero() {
     <div className=" bg1">
       <div className="container flex justify-between py-8 mx-auto text-white ">
         <div className="text-2xl">
-          <span className="font-bold">CAFÉ</span> BRIGADEIRO
+          <h1>
+            <span className="font-bold"> COFFEE </span> MAGNIFIC
+          </h1>
         </div>
         <div>
-          <ul className="flex space-x-6 tracking-wide">
+          <ul className="flex space-x-6 tracking-wider">
             <li>
-              <a className="hover:text-golden" href="#">
+              <a id="hero" className="hover:text-golden" href="">
                 INÍCIO
               </a>
             </li>
@@ -24,24 +26,24 @@ export function Hero() {
               </Link>
             </li>
             <li>
-              <Link href="/reserva">
+              <Link href="/agendar">
                 <a className="hover:text-golden">RESERVA</a>
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link href="/contato">
                 <a className="hover:text-golden">CONTATO</a>
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
       <div className="flex flex-col justify-center pt-48 text-white">
         <div className="container mx-auto">
-          <h2 className="text-6xl text-golden allura">Café forte</h2>
+          <h2 className="text-6xl text-golden allura">Bolo Especial</h2>
           <h1 className="pb-12 text-6xl"> DOCES DELICIOSOS</h1>
           <p className="pl-2 text-xl tracking-wide border-l-2 hover:border-white border-golden ">
-            UM CAFÉ PARA TODOS OS AMANTES DE DOCES
+            PARA TODOS OS AMANTES DE DOCES
           </p>
         </div>
       </div>

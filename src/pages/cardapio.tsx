@@ -16,7 +16,7 @@ export default function Cardapio() {
                   <p className="font-bold merri"> Brigadeiro de colher </p>
                   <p className="text-gray-600">Minima veniam quis nostrum</p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 6,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
@@ -30,7 +30,7 @@ export default function Cardapio() {
                     Adipisci velit sed quia non numquam
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 10,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
@@ -42,7 +42,7 @@ export default function Cardapio() {
                     Quia voluptas sit aspernatur aut odit aut
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 12,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
@@ -54,7 +54,7 @@ export default function Cardapio() {
                     Ea commodi consequatur quis autem
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 12,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
@@ -69,7 +69,7 @@ export default function Cardapio() {
             <div className="container justify-between h-full pt-12 mx-auto text-xl">
               <div className="flex justify-between ">
                 <div>
-                  <p className="font-bold merri"> Brigadeiro de colher </p>
+                  <p className="font-bold merri"> Café Espresso </p>
                   <p className="text-gray-600">Minima veniam quis nostrum</p>
                 </div>
                 <div className="font-bold merri"> R$ 5,00</div>
@@ -79,38 +79,36 @@ export default function Cardapio() {
 
               <div className="flex justify-between ">
                 <div>
-                  <p className="font-bold merri ">
-                    Cheesecake com calda de chocolate
-                  </p>
+                  <p className="font-bold merri ">Cappuccino</p>
                   <p className="text-gray-600">
                     Adipisci velit sed quia non numquam
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 8,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
 
               <div className="flex justify-between ">
                 <div>
-                  <p className="font-bold merri ">Torta de maçã com sorvete</p>
+                  <p className="font-bold merri ">Café Gelado</p>
                   <p className="text-gray-600">
                     Quia voluptas sit aspernatur aut odit aut
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 10,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />
 
               <div className="flex justify-between ">
                 <div>
-                  <p className="font-bold merri ">Bolo de frutas silvestres</p>
+                  <p className="font-bold merri ">Chocolate Gelado</p>
                   <p className="text-gray-600">
                     Ea commodi consequatur quis autem
                   </p>
                 </div>
-                <div className="font-bold merri"> R$ 5,00</div>
+                <div className="font-bold merri"> R$ 12,00</div>
               </div>
 
               <div className="w-full h-px my-3 bg-gray-300" />

@@ -1,7 +1,7 @@
 import { Footer } from "../components/Footer";
 import { Menus } from "../components/Menus";
 
-export default function Reservas() {
+export default function Agendar() {
   return (
     <div>
       <Menus />

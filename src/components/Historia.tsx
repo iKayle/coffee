@@ -3,7 +3,7 @@ export function Historia() {
     <div className="container flex pt-32 pb-32 mx-auto">
       <div className="container justify-between h-full mx-auto">
         <h2 className="text-6xl allura text-golden">Nossa história</h2>
-        <h2 className="text-5xl ">CAFÉ BRIGADEIRO</h2>
+        <h2 className="text-5xl ">COFFEE MAGNIFIC</h2>
       </div>
       <div className="container flex justify-between ">
         <p className="text-lg tracking-wide text-gray-600 ">

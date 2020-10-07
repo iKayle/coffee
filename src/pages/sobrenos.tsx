@@ -8,7 +8,7 @@ export default function Sobrenos() {
         <div className="container flex pt-48 mx-auto">
           <div className="container mx-auto">
             <h2 className="text-5xl text-golden allura">Nossa história</h2>
-            <h1 className="pb-12 text-5xl"> CAFÉ BRIGADEIRO</h1>
+            <h1 className="pb-12 text-5xl"> COFFEE MAGNIFIC</h1>
           </div>
         </div>
         <div className="container flex justify-between mx-auto">
@@ -57,7 +57,7 @@ export default function Sobrenos() {
       <div className="container w-full h-px mx-auto mt-2 bg-gray-300">
         <footer className="container flex justify-between pt-5 pb-10 mx-auto text-sm text-gray-600">
           <div>
-            <h1>CAFÉ BRIGADEIRO</h1>
+            <h1>COFFEE MAGNIFIC</h1>
             <p>Todos os direitos reservados 2020</p>
           </div>
           <div>
